@@ -29,4 +29,4 @@ A command-line Language Interpretation and Recognition Interface node applicatio
 ## How It Works
 
 1. To load the app: ```node liri.js```
-    ![Liri Demo](https://github.com/python71/liri-node-app/assets/liri-bot.mp4)
+    ![Liri Demo](https://github.com/python71/liri-node-app/raw/master/assets/liri-bot.mp4)

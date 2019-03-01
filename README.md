@@ -7,7 +7,6 @@ A command-line Language Interpretation and Recognition Interface node applicatio
 * Node.js
 * Axios
 * dotENV  
-* Inquirer
 * Moment
 * fs
 * Node-Spotify-API
@@ -25,8 +24,10 @@ A command-line Language Interpretation and Recognition Interface node applicatio
 * movie-this <movie>
 * concert-this <band>
 * spotify-this-song <song>
+* do-what-it-says
 
 ## How It Works
 
 1. To load the app: ```node liri.js```
+    ![Liri Demo](https://github.com/python71/liri-node-app/raw/master/assets/liri-bot.mp4)
     <img alt="mp4 demo of liri.js" src="assets/liri-bot.mp4">

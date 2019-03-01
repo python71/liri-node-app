@@ -6,3 +6,5 @@ exports.spotify = {
 };
 
 exports.OMDB = process.env.OMDB_Key
+
+exports.bands = process.env.bands_key
